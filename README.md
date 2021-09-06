@@ -70,7 +70,7 @@ See the corresponding fragments in the code blocks below:
 ```html
 <BlazorBarcodeScanner.ZXing.JS.BarcodeReader
     ...
-    OnCodeReceived="LocalReceivedBarcodeText"
+    OnBarcodeReceived="LocalReceivedBarcodeText"
  />
 ```
 
